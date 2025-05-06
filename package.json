@@ -9,7 +9,7 @@
   },
   "homepage": "https://nrogeau.github.io/Node",
   "devDependencies": {
-    "@vitejs/plugin-react": "^4.0.0",
+    "@vitejs/plugin-react": "^4.4.1",
     "gh-pages": "^5.0.0",
     "vite": "^4.5.0"
   },
